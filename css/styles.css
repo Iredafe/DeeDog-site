@@ -16,6 +16,7 @@
 
 body{
   font-family: "Montserrat";
+
 }
 
 /* Navigation Bar */
@@ -50,4 +51,41 @@ body{
 .title-image{
   width: 60%;
   transform: rotate(25deg);
+}
+
+/* Features */
+.info{
+font-family: 'Montserrat', sans-serif;;
+font-weight: bold;
+font-size: 1.5rem;
+text-align: center;
+
+}
+
+.fontawesome{
+  color: #ef8172;
+display: block;
+  font-size: 40px;
+padding: 20px;
+margin-top: 50px;
+}
+
+.fontawesome:hover{
+  margin: auto;
+  color: #ff4c68;
+
+}
+
+.info-desc{
+  color: #8f8f8f;
+width: 50%;
+margin: auto;
+text-align: center;
+}
+
+.feature-box{
+}
+
+.row{
+margin: 150px 0;
 }
